@@ -12,7 +12,6 @@ export default function HomeScreen() {
         <div>Home</div>
       </main>
     </>
-
   );
 }
 
